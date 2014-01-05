@@ -1,6 +1,6 @@
 #
-# Author:: Ben Dixon
-# Cookbook Name:: basic_security-tlq
+# Author:: Oriol Collell
+# Cookbook Name:: basic_security
 # Attributes:: default
 #
 
